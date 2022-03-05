@@ -1,9 +1,9 @@
-### <div align ="center"> 
-### <h2> Hi i'm Carlos and i starting my life as a developer </h2> 
-### <h4> 👨🏼‍💻 Currently studying javascript </h4>
-### <h4> 📚 Learning english </h4>
-### <h4> 📚 Always looking to know more </h4>
-###    </div>
+<div align ="center">  <h2> Hi i'm Carlos and i starting my life as a developer </h2> </div>
+<h4> 👨🏼‍💻 Currently studying javascript </h4>
+<h4> 📚 Learning english </h4>
+<h4> 📚 Always looking to know more </h4>
+
+
  
  <div align="center">
   <a href="https://github.com/caalb">
