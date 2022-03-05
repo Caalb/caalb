@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caalb&layout=compact&langs_count=7&theme=onedark"/>
 </div>
  
- <div align="center" style="display: inline_block"><br>
+ <div align="center" style="display: inline_block">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>
