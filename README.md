@@ -3,7 +3,7 @@
 ### <h3> 📚 Learning english </h3>
 ### <h3> 📚 Always looking to know more
  
- <div align="left">
+ <div align="center">
   <a href="https://github.com/caalb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caalb&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caalb&layout=compact&langs_count=7&theme=onedark"/>
