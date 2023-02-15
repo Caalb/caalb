@@ -1,8 +1,10 @@
 <div align ="center">  <h2> Hi i'm Carlos and i starting my life as a developer </h2> </div>
-<a href="https://gitlab.com/Caalb" style="text-decoration: none;">
-  <img src="https://docs.gitlab.com/assets/images/gitlab-logo.svg" height="20em"/>
-  GitLab
-</a>
+<div align="center" style="display: inline_block"> 
+  <a href="https://gitlab.com/Caalb">
+    <img src="https://docs.gitlab.com/assets/images/gitlab-logo.svg" height="20em"/>
+    GitLab
+  </a>
+</div>
 <h4> 👨🏼‍💻 Currently studying C#, VueJS</h4>
 <h4> 📚 Learning english </h4>
 <h4> 📚 Always looking to know more </h4>
