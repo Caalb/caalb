@@ -6,7 +6,6 @@
   </a>
 </div>
 <h4> 👨🏼‍💻 Currently studying Nuxt 3, Node</h4>
-<h4> 📚 Learning english </h4>
 <h4> 📚 Always looking to know more </h4>
 
 
