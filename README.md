@@ -3,7 +3,6 @@
   <a href="https://gitlab.com/Caalb">
     <img src="https://docs.gitlab.com/assets/images/gitlab-logo.svg" height="40em"/>
     <br />
-    <p>GitLab</p>
   </a>
 </div>
 <h4> 👨🏼‍💻 Currently studying Nuxt 3, Node</h4>
