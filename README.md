@@ -1,4 +1,4 @@
-<div align="center">  <h2> Hi i'm Carlos and i starting my life as a developer </h2> </div>
+<div align="center">  <h2>Hi, I'm Carlos and I'm a front-end developer.</h2> </div>
 <div align="center" style="display: inline_block"> 
   <a href="https://gitlab.com/Caalb">
     <img src="https://docs.gitlab.com/assets/images/gitlab-logo.svg" height="40em"/>
