@@ -1,11 +1,11 @@
-<div align="center">  <h2>Hi, i'm Carlos and i'm a front-end developer.</h2> </div>
+<div align="center">  <h2>Hi, i'm Carlos and i'm a full stack developer.</h2> </div>
 <div align="center" style="display: inline_block"> 
   <a href="https://gitlab.com/Caalb">
     <img src="https://docs.gitlab.com/assets/images/gitlab-logo.svg" height="40em"/>
     <br />
   </a>
 </div>
-<h4> 👨🏼‍💻 Currently studying Nuxt 3, Node</h4>
+<h4> 👨🏼‍💻 Currently studying NestJs</h4>
 <h4> 📚 Always looking to know more </h4>
 
 
